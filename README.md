@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I am Hanieh 👋
+
+![Header](./my_banner.png)
+
 
 <!--
 **hrashidpour/hrashidpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
